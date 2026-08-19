@@ -1,0 +1,6 @@
+{
+  "name": "Resume Genie & Career Assistant",
+  "description": "AI-powered resume generator, analyzer, job matcher, career path finder, skill gap analyzer, and personalized learning roadmap builder for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
